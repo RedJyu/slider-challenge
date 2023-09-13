@@ -1,9 +1,11 @@
 import Carousel from './Carousel';
+import Slick from './slick';
 
 const App = () => {
   return (
     <main>
-      <Carousel />
+      {/* <Carousel /> */}
+      <Slick />
     </main>
   );
 };
